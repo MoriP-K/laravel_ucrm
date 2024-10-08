@@ -14,5 +14,5 @@ class Item extends Model
 		'memo',
 		'price',
 		'is_selling',
-];
+	];
 }
